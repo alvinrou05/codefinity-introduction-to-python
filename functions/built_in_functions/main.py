@@ -20,6 +20,6 @@ total_sum = sum(total_sales_list)
 min_sales = min(total_sales_list)
 max_sales = max(total_sales_list)
     
-print(f"Total sum of all sales: {total_sum}")
+print(f"Total sum of all sales: ${total_sum}")
 print(f"Minimum sales: ${min_sales}")
 print(f"Maximum sales: ${max_sales}")
